@@ -1,0 +1,6 @@
+url: https://github.com/Algorandius/dsh-redo
+name: Algorandius/dsh-redo
+category: session
+description:
+  en: 'Rewrites the last turn of a session in place: edit a cancelled or failed prompt and resend it, keeping the files it already wrote.'
+  zh: '就地重写会话的最后一轮：改掉被取消或出错的指令后重发，已写出的文件保持不变。'
